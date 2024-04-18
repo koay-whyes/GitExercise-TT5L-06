@@ -6,9 +6,5 @@ Then he checked Instagram.
 He goes to class. 
 The lecturer was very boring.
 He was confused with git.
-<<<<<<< HEAD
-=======
 Adam is good now.
 Adamamamamamam
-
->>>>>>> 52c2581bad5715984fe289dbe9f222d95b5af18b
